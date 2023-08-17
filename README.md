@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2F7C2&height=120&section=header"/>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/guiguiba0202/guiguiba002/blob/output/github-contribution-grid-snake.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2F7C2&size=35&center=true&vCenter=true&width=1000&lines=Olá+Aline!;Seja+Bem+vinda+ao+GLAPP!+:%29)](https://git.io/typing-svg)
 
