@@ -35,7 +35,7 @@ namespace GLAPP_API.Controllers
             var pizza = _context.tbPizzas.Find(id);
             if (pizza == null)
             {
-                Ok("Puizza removida");
+                Ok("Pizza removida");
             }
             _context.tbPizzas.Remove(pizza);
             _context.SaveChanges();
