@@ -7,7 +7,7 @@ services:
       environment:
         MYSQL_ROOT_PASSWORD: 12345678
         MYSQL_DATABASE: dbPizzaria
-        MYSQL_USER: root
+        MYSQL_USER: mysql
         MYSQL_PASSWORD: '12345678'
       ports:
         - "3306:3306"
