@@ -32,3 +32,13 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2F7C2&height=120&section=footer"/>
+
+# Install Dotnet ef
+
+```sh
+dotnet tool install --global dotnet-ef
+```
+
+```sh
+export PATH="$PATH:/home/codespace/.dotnet/tools"
+```
