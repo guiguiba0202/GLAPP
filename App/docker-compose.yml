@@ -1,0 +1,17 @@
+version: '3.5'
+
+services:
+  mysql:
+      image: mysql:8.0.26
+      container_name: pizza_mysql
+      environment:
+        MYSQL_ROOT_PASSWORD: 12345678
+        MYSQL_DATABASE: dbPizzaria
+        MYSQL_USER: root
+        MYSQL_PASSWORD: '12345678'
+      ports:
+        - "3306:3306"
+      volumes:
+           - mysql:/data/mysql
+volumes:
+  mysql:
