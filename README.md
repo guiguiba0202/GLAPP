@@ -15,12 +15,12 @@
 # Diagramas:
 
 <p align="center">
-  <img src="MER.jpg" width="400" height="400" alt="MER">
+  <img src="CLASSE.drawio.png" width="900" height="400" alt="Classe">
 </p>
 
 <p align="center">
-  <img src="DIAGRAMA_CLASSE.jpg" width="400" height="400" alt="Classe">
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  
+  <img src="MER.jpg" width="400" height="400" alt="MER">
   <img src="DER.jpg" width="400" height="400" alt="DER">
 </p>
 
