@@ -36,3 +36,46 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2F7C2&height=120&section=footer"/>
 
+## Testes no SWAGGER
+
+
+## CRIANDO PIZZA
+<p align="center">
+  <img src="img1.png" width="900" height="400" alt="Classe">
+</p>
+
+## SELECIONANDO PIZZA CRIADA
+
+
+<p align="center">
+  <img src="img2.png" width="900" height="400" alt="Classe">
+</p>
+
+## DELETANDO PIZZA
+
+<p align="center">
+  <img src="img3.png" width="900" height="400" alt="Classe">
+</p>
+
+<p align="center">
+  <img src="img4.png" width="900" height="400" alt="Classe">
+</p>
+
+## VERIFICANDO SE DELETOU
+
+<p align="center">
+  <img src="img5.png" width="900" height="400" alt="Classe">
+</p>
+
+## CRIANDO PEDIDO
+
+<p align="center">
+  <img src="img6.png" width="900" height="400" alt="Classe">
+</p>
+
+
+## SELECIONANDO PEDIDO
+
+<p align="center">
+  <img src="img8.png" width="900" height="400" alt="Classe">
+</p>
