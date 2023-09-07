@@ -20,7 +20,7 @@
 
 <p align="center">
   
-  <img src="MER.jpg" width="400" height="400" alt="MER">
+  <img src="MER.drawio.png" width="500" height="400" alt="MER">
 </p>
 
 
