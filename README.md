@@ -28,13 +28,7 @@
 
   <img src="DER.drawio.png" width="400" height="400" alt="MER">
 </p>
-<div align="center">
-<br><p align="centre"><b>Contador de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{guiguiba0202}/count.svg" /></p> 
-<br>
-</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2F7C2&height=120&section=footer"/>
 
 ## Testes no SWAGGER
 
@@ -79,3 +73,12 @@
 <p align="center">
   <img src="img8.png" width="900" height="400" alt="Classe">
 </p>
+
+
+<div align="center">
+<br><p align="centre"><b>Contador de Visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{guiguiba0202}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2F7C2&height=120&section=footer"/>
