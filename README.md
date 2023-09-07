@@ -21,12 +21,12 @@
 <p align="center">
   
   <img src="MER.drawio.png" width="500" height="400" alt="MER">
-</p>
 
 
 
-<p align="center"> 
-  <img src="DER.drawio.jpg" width="400" height="400" alt="MER">
+
+
+  <img src="DER.drawio.png" width="400" height="400" alt="MER">
 </p>
 <div align="center">
 <br><p align="centre"><b>Contador de Visitas</b></p>  
