@@ -15,18 +15,18 @@
 # Diagramas:
 
 <p align="center">
-  <img src="imagens/CLASSE.drawio.png" width="900" height="400" alt="Classe">
+  <img src="Imagens/CLASSE.drawio.png" width="900" height="400" alt="Classe">
 </p>
 
 <p align="center">
   
-  <img src="imagens/MER.drawio.png" width="500" height="400" alt="MER">
+  <img src="Imagens/MER.drawio.png" width="500" height="400" alt="MER">
 
 
 
 
 
-  <img src="imagens/DER.drawio.png" width="400" height="400" alt="MER">
+  <img src="Imagens/DER.drawio.png" width="400" height="400" alt="MER">
 </p>
 
 
@@ -35,43 +35,43 @@
 
 ## CRIANDO PIZZA
 <p align="center">
-  <img src="imagens/img1.png" width="900" height="400" alt="Classe">
+  <img src="Imagens/img1.png" width="900" height="400" alt="Classe">
 </p>
 
 ## SELECIONANDO PIZZA CRIADA
 
 
 <p align="center">
-  <img src="imagens/img2.png" width="900" height="400" alt="Classe">
+  <img src="Imagens/img2.png" width="900" height="400" alt="Classe">
 </p>
 
 ## DELETANDO PIZZA
 
 <p align="center">
-  <img src="imagens/img3.png" width="900" height="400" alt="Classe">
+  <img src="Imagens/img3.png" width="900" height="400" alt="Classe">
 </p>
 
 <p align="center">
-  <img src="imagens/img4.png" width="900" height="400" alt="Classe">
+  <img src="Imagens/img4.png" width="900" height="400" alt="Classe">
 </p>
 
 ## VERIFICANDO SE DELETOU
 
 <p align="center">
-  <img src="imagens/img5.png" width="900" height="400" alt="Classe">
+  <img src="Imagens/img5.png" width="900" height="400" alt="Classe">
 </p>
 
 ## CRIANDO PEDIDO
 
 <p align="center">
-  <img src="imagens/img6.png" width="900" height="400" alt="Classe">
+  <img src="Imagens/img6.png" width="900" height="400" alt="Classe">
 </p>
 
 
 ## SELECIONANDO PEDIDO
 
 <p align="center">
-  <img src="imagens/img8.png" width="900" height="400" alt="Classe">
+  <img src="Imagens/img8.png" width="900" height="400" alt="Classe">
 </p>
 
 
